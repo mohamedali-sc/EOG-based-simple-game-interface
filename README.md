@@ -2,6 +2,6 @@
 ![interface](https://github.com/mohamedali-sc/EOG-based-simple-game-interface/blob/master/interface.jpg)
 link video 
 https://youtu.be/BjUnx3PhhsM
-if you want this interface contact me
+if you want this game contact me
 
 
